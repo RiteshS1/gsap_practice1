@@ -101,7 +101,7 @@ function App() {
                 adipisicing elit. Cum delectus, modi atque repellendus 
                 corrupti ex eaque omnis ducimus tempore ea qui.
               </p>
-              <p className="text-md mt-10">scroll</p>
+              <p className="text-md mt-10">Click anywhere to see MAGIC!</p>
               
             </div>
           </div>
